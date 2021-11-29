@@ -1,4 +1,4 @@
-#抓取ptt電影版的html
+#抓取ptt stock的html
 import urllib.request as req
 url = "https://www.ptt.cc/bbs/Stock/index.html"
 
